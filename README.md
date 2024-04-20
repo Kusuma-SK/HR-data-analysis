@@ -1,5 +1,9 @@
 # HR-data-analysis
 This visualization file showcases the analysis of the HR  data..
+![Dashboard](https://github.com/Kusuma-SK/HR-data-analysis/assets/157570892/e7894463-330b-45a1-ab9f-26c67f33400b)
+
+
+
 Table of Contents
 Introduction
 Dashboard Requirements
